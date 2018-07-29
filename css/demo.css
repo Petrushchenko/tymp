@@ -32,51 +32,6 @@ body {
 	--color-next-hover: #8544da;
 }
 
-.demo-2 {
-	--color-text: #fff;
-	--color-link: #002068;
-	--color-link-hover: #d8d1d1;
-	--color-enter: #ecec11;
-	--color-title: #ffffff;
-	--color-subtitle: #002068;
-	--color-menu-item: #fff;
-	--color-menu-item-hover: #000;
-	--color-menu-item-hover-alt: #000;
-	--color-content: #013bbb;
-	--color-content-fixed: #ddd;
-	--font-alt: 400 6vw/1 'Fugaz One', serif;
-	--color-next: #fff;
-	--color-next-hover: #000;
-}
-
-.demo-3 {
-	--color-text: #fff;
-	--color-link: #4c0a75;
-	--color-link-hover: #f470d2;
-	--color-enter: #f470d2;
-	--color-title: #ffffff;
-	--color-subtitle: #4c0a75;
-	--color-menu-item: #000;
-	--color-menu-item-hover: #4c0a75;
-	--color-menu-item-hover-alt: #8544da;
-	--color-content: #ffb4ec;
-	--color-content-fixed: #ddd;
-	--font-alt: 400 6vw/1 'Chewy', serif;
-	--color-next: #fff;
-	--color-next-hover: #000;
-}
-
-.demo-4 {
-	--color-text: #4b2cf2;
-	--color-link: #ec2525;
-	--color-link-hover: #fff;
-	--color-enter: #4b2cf2;
-	--color-title: #ffffff;
-	--color-subtitle: #ec2525;
-	--color-content: #1c1b1b;
-	--font-alt: 400 5vw/1 'Poppins', serif;
-}
-
 /* Page Loader */
 .js .loading::before {
 	content: '';
